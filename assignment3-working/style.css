@@ -1,0 +1,17 @@
+.item > img{
+  margin: 0 auto;
+  max-height: 150px;
+}
+
+.navbar-default{
+	background-color: cyan;
+	
+}
+
+.carousel-control .glypthicon-step-backward, .carousel-control .glypthicon-step-backward, .carousel-control .icon-next, .carousel-control .icon-prev{
+	position: absolute;
+    top: 50%;
+    z-index: 5;
+    display: inline-block;
+    margin-top: -10px;
+}
